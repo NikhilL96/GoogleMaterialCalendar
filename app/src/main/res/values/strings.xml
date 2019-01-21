@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CalendarLibrary</string>
+    <array name="week_day_letters">
+        <item>"Sun"</item>
+        <item>"Mon"</item>
+        <item>"Tue"</item>
+        <item>"Wed"</item>
+        <item>"Thu"</item>
+        <item>"Fri"</item>
+        <item>"Sat"</item>
+    </array>
+
+    <string-array name="months">
+        <item>"January"</item>
+        <item>"February"</item>
+        <item>"March"</item>
+        <item>"April"</item>
+        <item>"May"</item>
+        <item>"June"</item>
+        <item>""July</item>
+        <item>""August</item>
+        <item>"September"</item>
+        <item>"October"</item>
+        <item>"November</item>
+        <item>""December</item>
+    </string-array>
+</resources>

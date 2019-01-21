@@ -1,0 +1,11 @@
+package homegenius.infrrd.com.calendarlibrary.model
+
+data class MonthViewEvent(
+    val id: Long,
+    val title: String,
+    val startTS: Long,
+    val color: Int,
+    val startDayIndex: Int,
+    val daysCnt: Int,
+    val originalStartDayIndex: Int
+)
