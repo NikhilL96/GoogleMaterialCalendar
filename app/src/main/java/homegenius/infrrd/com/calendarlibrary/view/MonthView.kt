@@ -72,7 +72,7 @@ class MonthView(context: Context, attrs: AttributeSet, defStyle: Int) : View(con
 
     init {
         textSize = resources.getDimensionPixelSize(R.dimen.date_text_size)
-        
+
         paintEnabled.color = ContextCompat.getColor(context, R.color.primary_text)
         paintEnabled.textSize = textSize.toFloat()
         paintDisabled.textSize = textSize.toFloat()
